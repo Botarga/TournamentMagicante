@@ -1,0 +1,12 @@
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\bin\Debug\netstandard2.0\Vista.deps.json
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\bin\Debug\netstandard2.0\Vista.dll
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\bin\Debug\netstandard2.0\Vista.pdb
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.csprojResolveAssemblyReference.cache
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.csproj.CoreCompileInputs.cache
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.AssemblyInfoInputs.cache
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.AssemblyInfo.cs
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.csproj.CopyComplete
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.dll
+C:\Users\mvivas\source\repos\TournamentMagicante\Vista\obj\Debug\netstandard2.0\Vista.pdb

@@ -1,0 +1,13 @@
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\bin\Release\TournamentMagicante.exe.config
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\bin\Release\TournamentMagicante.exe
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\bin\Release\TournamentMagicante.pdb
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\bin\Release\MySql.Data.dll
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\bin\Release\MySql.Data.xml
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.Form1.resources
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.MainForm.resources
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.Properties.Resources.resources
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.csproj.GenerateResource.cache
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.csproj.CoreCompileInputs.cache
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.csproj.CopyComplete
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.exe
+C:\Users\mvivas\source\repos\TournamentMagicante\TournamentMagicante\obj\Release\TournamentMagicante.pdb
